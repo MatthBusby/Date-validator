@@ -134,7 +134,7 @@ public class validdate {
 		break;
 	  
 	  
-	  default: //r u dump?!?!?!?
+	  default: 
 		System.out.println("This is not a valid month");
 
 
